@@ -1,0 +1,378 @@
+[
+    {
+        "behavior": "Play",
+        "id": 0,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "playingTimeFrom": 0,
+        "label": "Search with 'Figma Web Design' on YouTube and select the top"
+    },
+    {
+        "behavior": "Seek Immediately",
+        "playingTimeFrom": 80,
+        "id": 1,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "To pass the introduction part"
+    },
+    {
+        "behavior": "Seek Immediately",
+        "playingTimeFrom": 214,
+        "id": 2,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "The website was shown, but it was still introduction"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 214,
+        "playingTimeTo": 480,
+        "id": 3,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "He started the tutorial with not desktop but mobile background."
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 480,
+        "id": 4,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "videoTo": {
+            "id": "aMeuZpBnlj8",
+            "title": "Design A Clothing Website Using Figma | Speed Art | Part 1/2"
+        },
+        "label": "Stopped"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 0,
+        "id": 5,
+        "videoFrom": {
+            "id": "aMeuZpBnlj8",
+            "title": "Design A Clothing Website Using Figma | Speed Art | Part 1/2"
+        },
+        "label": "Search with 'figma web UI tutorial' on YouTube and the thumbnail shows the web"
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 20,
+        "id": 6,
+        "videoFrom": {
+            "id": "aMeuZpBnlj8",
+            "title": "Design A Clothing Website Using Figma | Speed Art | Part 1/2"
+        },
+        "videoTo": {
+            "id": "gKkh0aMpQyU",
+            "title": "eCommerce Web Design Figma Tutorial"
+        },
+        "label": "Stopped since he started to make without any explanation"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 0,
+        "id": 7,
+        "videoFrom": {
+            "id": "gKkh0aMpQyU",
+            "title": "eCommerce Web Design Figma Tutorial"
+        },
+        "label": "Search with 'figma website' on YouTube and the thumbnail shows the web"
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 90,
+        "id": 8,
+        "videoFrom": {
+            "id": "gKkh0aMpQyU",
+            "title": "eCommerce Web Design Figma Tutorial"
+        },
+        "videoTo": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "Stopped since he started to make without any explanation"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 480,
+        "id": 9,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "It seems to be better to get explanation on mobile"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 480,
+        "playingTimeTo": 300,
+        "id": 10,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "YouTube stored my last playing time, and I turned it back to the first"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 327,
+        "playingTimeTo": 300,
+        "id": 11,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to watch what the 'opt' key again"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 675,
+        "playingTimeTo": 655,
+        "id": 12,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to watch 'rotation' part again"
+    },
+    {
+        "behavior": "Pause",
+        "playingTimeFrom": 655,
+        "id": 13,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to do rotation task, and start"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 684,
+        "playingTimeTo": 670,
+        "id": 14,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "my button is not activated unlike to the video"
+    },
+    {
+        "behavior": "Pause",
+        "playingTimeFrom": 670,
+        "id": 15,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "pause to find the reason why my buttons are not activated"
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 670,
+        "id": 16,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "videoTo": {
+            "id": "8ZaX6qEcUCU",
+            "title": "Figma Tutorial: Boolean Operation"
+        },
+        "label": "pause to find the reason why my buttons are not activated"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 0,
+        "id": 17,
+        "videoFrom": {
+            "id": "8ZaX6qEcUCU",
+            "title": "Figma Tutorial: Boolean Operation"
+        },
+        "label": "Search with 'figma intersection'"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 0,
+        "playingTimeTo": 50,
+        "id": 18,
+        "videoFrom": {
+            "id": "8ZaX6qEcUCU",
+            "title": "Figma Tutorial: Boolean Operation"
+        },
+        "label": "This video does not show the real case"
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 670,
+        "id": 19,
+        "videoFrom": {
+            "id": "8ZaX6qEcUCU",
+            "title": "Figma Tutorial: Boolean Operation"
+        },
+        "videoTo": {
+            "id": "LwJOWM9Bc5U",
+            "title": "#02: Figma Object Selection Tips"
+        },
+        "label": "This video does not show the real case"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 0,
+        "id": 20,
+        "videoFrom": {
+            "id": "LwJOWM9Bc5U",
+            "title": "#02: Figma Object Selection Tips"
+        },
+        "label": "Search with 'figma intersection'"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 0,
+        "playingTimeTo": 50,
+        "id": 21,
+        "videoFrom": {
+            "id": "LwJOWM9Bc5U",
+            "title": "#02: Figma Object Selection Tips"
+        },
+        "label": "Since only texts are on the screen"
+    },
+    {
+        "behavior": "Jump",
+        "playingTimeFrom": 50,
+        "id": 22,
+        "videoFrom": {
+            "id": "LwJOWM9Bc5U",
+            "title": "#02: Figma Object Selection Tips"
+        },
+        "videoTo": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "not helpful and accidently solved the problem"
+    },
+    {
+        "behavior": "Play",
+        "playingTimeFrom": 670,
+        "id": 23,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "anyway it solved"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 670,
+        "playingTimeTo": 685,
+        "id": 24,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "anyway it solved"
+    },
+    {
+        "behavior": "Pause",
+        "playingTimeFrom": 884,
+        "id": 25,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to do text task, and start"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 937,
+        "playingTimeTo": 927,
+        "id": 26,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to watch 'text box' again"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 1152,
+        "playingTimeTo": 1195,
+        "id": 27,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "same things again"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 1230,
+        "playingTimeTo": 1870,
+        "id": 28,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "same things again"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 1885,
+        "playingTimeTo": 1870,
+        "id": 29,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to watch 'dot' again"
+    },
+    {
+        "behavior": "Seek Backward",
+        "playingTimeFrom": 1870,
+        "playingTimeTo": 1720,
+        "id": 30,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "to watch 'component' again"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 2070,
+        "playingTimeTo": 2080,
+        "id": 31,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "almost last part and watch CSS at 34:40"
+    },
+    {
+        "behavior": "Seek Forward",
+        "playingTimeFrom": 2160,
+        "id": 32,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        },
+        "label": "ending"
+    },
+    {
+        "behavior": "End",
+        "id": 33,
+        "videoFrom": {
+            "id": "3q3FV65ZrUs",
+            "title": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome."
+        }
+    }
+  ]

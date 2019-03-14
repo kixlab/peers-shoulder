@@ -1,0 +1,27 @@
+.video {
+    position: fixed;
+    float: left;
+    overflow: hidden;
+    overflow-y: scroll;
+    width: 70%;
+    top: 100px;
+    bottom: 0px;
+    padding-left: 10%;
+    padding-right: 50px;
+}
+
+.playlist {
+    float: left;
+    overflow-y: scroll;
+    height: 100%;
+    width: 30%;
+    margin-left: 70%;
+    margin-top: 100px;
+    padding-right: 10%;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+    display: none;
+}
