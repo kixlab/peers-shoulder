@@ -5,7 +5,7 @@ import Myflow from './prototypes/myflow/Myflow';
 import Behaviours from './prototypes/behaviours/Behaviours';
 import AnalysisUser from './prototypes/analysis/AnalysisUser';
 import AnalysisVideo from './prototypes/analysis/AnalysisVideo';
-import KixTube from './prototypes/youtube-like/KixTube';
+import KixTube from './prototypes/kixtube/KixTube';
 
 class Router extends Component {
   render() {

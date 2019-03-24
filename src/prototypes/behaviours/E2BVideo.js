@@ -425,7 +425,7 @@ class E2BVideo extends Component {
                         autoplay: 1,
                         start: this.props.time || 0,
                         rel: 0,
-                        fs: 1,
+                        fs: 0,
                     }
                 }}
                 videoId={this.props.video.id} 
