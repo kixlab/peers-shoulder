@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import { Menu, Icon, Button, Header, Input, Message } from 'semantic-ui-react';
-import E2BVideo from '../behaviours/E2BVideo';
 import { DB } from '../../utils/Database';
+import YouTube from 'react-youtube';
 
 import "./KixTube.css";
 
-export default class YouTube extends Component {
+export default class KixTube extends Component {
     state = {
         video: null,
         time: 0,
@@ -20,7 +20,10 @@ export default class YouTube extends Component {
                 this.setState({
                     records: [
                         ...this.state.records,
-                        time
+                        {
+                            playingTime: time,
+                            time: new Date().getTime()
+                        }
                     ]
                 })
             })
@@ -78,13 +81,19 @@ export default class YouTube extends Component {
                     <div className="video">
                         <div>
                             {this.state.video ?
-                            <E2BVideo
-                                height = {window.innerHeight * 0.7}
-                                time = {this.state.time}
-                                video = {this.state.video}
-                                _videoRef = {ref => this.videoRef = ref}
-                                _onBehaviorCreated = {()=>{}}
-                                _onEventsIgnored = {()=>{}}
+                            <YouTube
+                                ref = {c => this.videoRef = c}
+                                opts={{
+                                    height: window.innerHeight * 0.7,
+                                    width: "100%",
+                                    playerVars: {
+                                        autoplay: 1,
+                                        start: this.state.time,
+                                        rel: 0,
+                                        fs: 0,
+                                    }
+                                }}
+                                videoId={this.state.video.id} 
                             /> : <Message warning>Read instruction and click the button to start!</Message>
                             }
                         </div>
